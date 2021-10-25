@@ -1,0 +1,54 @@
+Extra Credit: Company Stack Research
+Identify 3 software or technology companies the interest you.
+Conduct research to figure out some or all of the elements of each company’s technology stack. Check job openings/job descriptions, engineering blogs, and anything else that may have information about what the company uses to write/build it’s software products.
+Record your findings in a google doc. If you can find information about why the company chose that stack, include that as well.
+Save your files and push them to GitHub with your code.
+
+
+Company 1. AirBnB
+MEAN stack
+One of the world’s largest marketplaces for unique places to stay. 
+Based on my research, AirBnB is a cloud based app, and uses the following elements in their tech stack:
+
+Programming languages — Ruby and Javascript.
+Framework — Ruby on Rails. RoR framework is well known for its awesome capabilities that speed up development and, as a result, reduce costs and TTM (time to market).
+JavaScript framework — React. A JavaScript UI library, React, is a flexible and efficient solution for building sleek user interfaces.
+Web server — Nginx. Nginx is a powerful HTTP and proxy server that speeds up content delivery, ensures Airbnb’s security and scalability. Not only Airbnb reaps the benefits of Nginx; tech industry giants like Instagram, Netflix, and Zappos use NGinx too.
+Key-value storage — Redis. Redis provides a scalable cache infrastructure and a key/value database.
+Cloud storage — Amazon S3, EBS. To store user data including millions of user pictures, Amazon resorts to Amazon services.
+Cloud hosting — Amazon EC2. Amazon EC2 is an efficient tool that distributes the incoming traffic and doesn’t let Airbnb’s system go down during sudden traffic spikes or any unexpected traffic fluctuations.
+Cloud database — Amazon RDS. Amazon keeps its data in an Amazon’s cloud relational database. Earlier, Amazon used MySQL databases, but switched to Amazon RDS to simplify administration and other routine tasks.
+Big Data tools — Presto, Druid, Airpal. Airbnb possesses a tremendous volume of user data, so they use various instruments to store, process, analyze, and manage that data.
+
+
+
+
+
+Company 2. Facebook
+LAMP stack
+The world’s largest social communication platform.
+Client side: Programming languages: HTML, CSS, JavaScript
+Server side: Linux, Apache, MySQL, PHP
+In addition to LAMP stack: HHVM: Hip-Hop Virtual Machine. An engine built by Facebook Inc. that transforms PHP to C++ Code. More references on HHVM.
+C++: A middle-level programming language developed by Bjarne Stroustrup. Facebook uses an Already compiled PHP code to executable bytecode in C++. More references on C++
+Hack: A relative to PHP, created and developed by Facebook to enable quick runtime and more functionalities like PHP. More references on Hack Programming Language.
+Databases: Cassandra: A distributed wide-column store, noSQL database system developed by Apache for handling huge data, and is used by Facebook, for it’s indexing and handling of user’s data. More references: Apache Cassandra.
+HBase: is an open-source, non-relational, distributed database modeled after Google's Bigtable and written in Java, and created by Apache. It runs on Apache’s Hadoop. 
+MariaDB: is an open-source distributed, relational database system developed by the MariaDB Foundation. 
+MySQL: An open-source RDBMS (relational-database management system) used for managing databases and queries. Hadoop: is a collection of open-source software utilities that facilitate using a network of many computers to solve problems involving massive amounts of data and computation. Facebook implements this in analysing user’s data alongside Hive, which is believed to be created by Facebook.
+
+
+
+
+
+Company 3. TikTok
+Company Tech Stack by G2 Stack
+Video sharing social media service.
+
+iOS app development: Swift
+Android app development: Kotlin
+Cloud architecture: Amazon Web Services and Azure
+Backend development: Node.js
+Database management: SQL, MongoDB or Cassandra
+Real-time analytics: Azure Stream Analytics 
+Notifications: Google Cloud Messaging and Apple Push Notifications
